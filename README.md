@@ -30,4 +30,4 @@ Email: mohammed.abbas.dev@gmail.com
 GitHub: mohammed-abbas-dev
 LinkedIn: linkedin.com/in/mohammed-abbas-dev
 Location: Baghdad, Iraq
-Available for freelance projects and full-time remote positions
+Available for freelance projects and full-time remote positions.
