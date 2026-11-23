@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Mohammed Abbas Fadhil Al-Kadhimi
+Profile Views
 
-<!--
-**mohammed-abbas-dev/mohammed-abbas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer from Baghdad, Iraq
+🎓 Computer Engineer from Al-Iraqia University
+🚀 Specialized in Python, JavaScript, C#, and Java
+🌍 Open to remote opportunities worldwide
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Languages:PythonJavaScriptC#Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks:DjangoFastAPIReactASP.NETSpring Boot
+
+Databases:PostgreSQLSQL Server
+
+Tools:GitDockerPostman
+
+📊 GitHub Stats
+GitHub Stats
+
+📫 Contact Me
+📧 Email: mohammed.abbas.dev@gmail.com
+💼 LinkedIn: linkedin.com/in/mohammed-abbas-dev
+📍 Location: Baghdad, Iraq
